@@ -1,0 +1,3 @@
+spring.config.activate.on-profile: devx
+foo: devfoo
+cook.special: "Pickled Cactus(config-client.yml)/devx"
