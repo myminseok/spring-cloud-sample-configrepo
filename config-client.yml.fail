@@ -1,9 +1,9 @@
-#cook.special: "Kim Chi(config-client.yml)"
+#cook.special: "Kim Chi (git-repo> config-client.yml)"
 #---
 spring.config.activate.on-profile: dev
 foo: devfoo
-cook.special: "Kim Chi(config-client.yml)/dev"
+cook.special: "Kim Chi (git-repo> config-client.yml)/dev"
 #---
 spring.config.activate.on-profile: cloud
 foo: cloudfoo
-#cook.special: "Kim Chi(config-client.yml)/cloud"
+#cook.special: "Kim Chi (git-repo> config-client.yml)/cloud"
